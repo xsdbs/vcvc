@@ -1,0 +1,10 @@
+LIBRARY base
+EXPORTS
+    HavocInitialize
+    HavocShutdown
+    HavocVersion
+    HavocRenderMenu
+    HavocMenuMessage
+    HavocMenuDeviceLost
+    HavocAttachDevice
+    HavocDetachDevice
